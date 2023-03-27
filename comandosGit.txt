@@ -1,0 +1,16 @@
+1. Desde mi cuenta de github, generé un repositorio nuevo en blanco con un archivo README.md
+2. Desde mi cuenta de github, creé una nueva rama llamada Banco-01
+3. Desde una terminal GitBash abierta en mi escritorio, apliqué el comando "git clone https://github.com/MartinFiorde/ArgPrograma4.0-Banco.git", creando el nuevo repositorio local conectado al de Github.
+
+4. Copié dentro del repositorio local la información base de un zip descargado desde https://github.com/Pedroottaviano/Banco para mantener la misma estructura inicial que la del profesor.
+5. Realizé las consignas solicitadas.
+
+6. COMANDOS GIT APLICADOS
+	git branch Banco-01
+	git checkout Banco-01
+	git status
+	git add .
+	git commit -m "carga de resolución a las consignas"
+	git push origin Banco-01
+
+7. Desde mi cuenta de github, realizado el merge desde branch Banco-01 hacia Main.

@@ -1,0 +1,23 @@
+Consigna Ejercitación final
+27 de marzo de 2023
+
+Definir los parametros que van a emplearse para la creación de un cliente. 
+Establecer un bloque con if statements para determinar si ese cliente, 
+será creado con caracteristicas de clienteA, B o estudiante.
+* Si el ingreso supera 2000 y la antiguedad supera los 12 meses, Cliente A
+* Sino, ClienteB
+* Si ingresos no es mayor a cero, Estudiante
+
+
+Definir un nuevo long dentro de main, llamado idBuscado, 
+generar el codigo que permita rercorrer el arreglo de clientes,
+y si encuentra alguno, con dicho id, lo borre.
+ArrayList<Cliente> clientes = new ArrayList<>();
+clientes.add(cliente);
+clientes.remove(0);
+
+
+Adjuntar al desarrollo un nuevo archivo de texto plano, llamado "comandosGit" 
+e incluir en el los comandos git usados. 
+Suponer que las tareas se desarrollan dentro de un grupo de trabajo
+y se encuentran establecidas en un ticket llamado Banco-01.
